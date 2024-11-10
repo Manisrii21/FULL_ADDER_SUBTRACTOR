@@ -2,7 +2,7 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-Developed by: MANI SRI LATHA.M
+Developed by: M.MANI SRI LATHA
 
 RegisterNumber: 212223110025
 
@@ -110,13 +110,16 @@ endmodule
 
 **FULL ADDER**
 
-![half](https://github.com/user-attachments/assets/bb3c7ac5-d3a6-4c8b-b7da-4d9c0542b59e)
+![318332443-3411cbc7-4f76-4664-a513-e348a9880eff](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/5d286c1d-e62e-454a-a389-00ba2c2a91fc)
 
 **FULL SUBTRACTOR**
 
-![full](https://github.com/user-attachments/assets/7a15639e-b6e0-41c4-9d9e-75c17dce1441)
+![318332487-1cc068c4-6398-4a52-bae8-39c6657c0a9a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/03d5d030-815e-4847-a976-2fd282cf0333)
 
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
+
+
